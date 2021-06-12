@@ -1,3 +1,5 @@
+my fork of Luke Smith's [dmenu](https://github.com/LukeSmithxyz/dmenu)
+
 # Luke's dmenu
 
 Extra stuff added to vanilla dmenu:
